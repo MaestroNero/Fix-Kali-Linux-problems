@@ -1,5 +1,5 @@
 # Kali-Linux
 Fix all Kali Linux problems
 
-kali@kali:~$ sudo apt update
-kali@kali:~$ sudo apt full-upgrade -y
+$ sudo apt update
+$ sudo apt full-upgrade -y
