@@ -1,4 +1,5 @@
-For dowenlod the fixer file put this in the ternmal in kali linux
+Firest
+Dowenlod the fixer file put this in the ternmal in kali linux
 ```
 wget https://raw.githubusercontent.com/MaestroNero/Fix-Kali-Linux-problems/main/Fix-Kali.py
 
