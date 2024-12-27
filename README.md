@@ -1,6 +1,6 @@
 For dowenlod the fixer file put this in the ternmal in kali linux
 ```
-wget https://raw.githubusercontent.com/MaestroNero/Kali-Linux/main/Fix-Kali.py
+wget https://raw.githubusercontent.com/MaestroNero/Fix-Kali-Linux-problems/main/Fix-Kali.py
 
 ```
 To give the file the installation permissions 
