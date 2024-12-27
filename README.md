@@ -1,6 +1,8 @@
 ```
-$ sudo apt update
+$ ```
+sudo apt update
 
 ```
 ```
-$ sudo apt full-upgrade -y
+$```
+ sudo apt full-upgrade -y
