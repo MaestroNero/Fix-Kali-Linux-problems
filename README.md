@@ -13,6 +13,6 @@ To start update and fix all the problem with the network,graphics,files,install 
 ```
 python3 Fix-Kali.py
 ```
-It will be take some time to finesh
+It will be take some time to finesh betwen 1- 1.5 hours
 
 [MAESTRO NERO]
