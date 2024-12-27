@@ -1,14 +1,9 @@
 import os
 
-def create_fix_file():
-
-    script_content = """# Kali-Linux
-import os
-
-
-os.system('sudo apt update')
-os.system('sudo apt full-upgrade -y')
-"""
+def update_kali():
+    print("Updating Kali Linux...")
+    os.system("sudo apt update && sudo apt full-upgrade -y")
+    print("Update completed successfully!")
 
 if __name__ == "__main__":
-    create_fix_file()
+    update_kali()
