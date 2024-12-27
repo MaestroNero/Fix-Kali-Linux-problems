@@ -1,5 +1,7 @@
 ```
-sudo git https://github.com/MaestroNero/Kali-Linux.git
+wget https://raw.githubusercontent.com/MaestroNero/Kali-Linux/main/Fix-Kali.py
+
 ```
 ```
-sudo python fix.py
+chmod +x Fix-Kail.py
+
