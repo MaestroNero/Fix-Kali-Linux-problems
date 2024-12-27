@@ -1,5 +1,5 @@
 ```
-sudo apt update
+sudo git https://github.com/MaestroNero/Kali-Linux.git
 ```
 ```
-sudo apt full-upgrade -y
+sudo python fix.py
