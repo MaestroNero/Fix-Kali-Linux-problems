@@ -1,6 +1,6 @@
 ```
-kali@kali:~$ sudo apt update
+$ sudo apt update
 
 ```
 ```
-kali@kali:~$ sudo apt full-upgrade -y
+$ sudo apt full-upgrade -y
